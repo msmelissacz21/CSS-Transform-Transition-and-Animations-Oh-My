@@ -3,6 +3,7 @@
 body  {
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
+
 }
 
 .caption {
@@ -12,7 +13,8 @@ body  {
 }
 
 img {
-  width: 80%;
+  width: 100%;
+  height: 100%;
 }
 
 button {
@@ -20,8 +22,7 @@ button {
   margin: .2em;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5em;
+  border-color: transparent;
 }
 
-button:hover {
-  background-color: cornflowerblue;
-}
+
